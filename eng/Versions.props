@@ -27,9 +27,7 @@
     <MicrosoftDotNetXUnitExtensionsPackageVersion>2.4.1-beta.19301.2</MicrosoftDotNetXUnitExtensionsPackageVersion>
     <MicrosoftDotNetXUnitConsoleRunnerPackageVersion>2.5.1-beta.19301.2</MicrosoftDotNetXUnitConsoleRunnerPackageVersion>
     <MicrosoftDotNetBuildTasksPackagingPackageVersion>1.0.0-beta.19301.2</MicrosoftDotNetBuildTasksPackagingPackageVersion>
-    <MicrosoftDotNetCoreFxTestingPackageVersion>1.0.0-beta.19301.2</MicrosoftDotNetCoreFxTestingPackageVersion>
     <MicrosoftDotNetRemoteExecutorPackageVersion>1.0.0-beta.19301.2</MicrosoftDotNetRemoteExecutorPackageVersion>
-    <MicrosoftDotNetBuildTasksConfigurationPackageVersion>1.0.0-beta.19301.2</MicrosoftDotNetBuildTasksConfigurationPackageVersion>
     <MicrosoftDotNetBuildTasksFeedPackageVersion>2.2.0-beta.19301.2</MicrosoftDotNetBuildTasksFeedPackageVersion>
     <MicrosoftDotNetVersionToolsTasksPackageVersion>1.0.0-beta.19301.2</MicrosoftDotNetVersionToolsTasksPackageVersion>
     <!-- Core-setup dependencies -->
